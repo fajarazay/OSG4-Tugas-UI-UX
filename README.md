@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # OSG4-Tugas-UI-UX
-Tugas liburan untuk peserta OSG4 kelas Flutter dari Eudeka~
-=======
-# tugas_ui_ux_osg4
+## Tugas liburan untuk peserta OSG4 kelas Flutter dari Eudeka~
 
+![alt text](https://raw.githubusercontent.com/fajarazay/OSG4-Tugas-UI-UX/master/screenshots/ss.png)
 A new Flutter application.
 
 ## Getting Started
@@ -18,4 +16,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
->>>>>>> initial project
